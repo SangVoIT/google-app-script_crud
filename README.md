@@ -17,3 +17,8 @@ Google Apps Script is a scripting language developed by Google that facilitates 
 ## IV. Additional Resources
 - [Watch a Tutorial Video](https://www.youtube.com/watch?v=4HACRdHZPS8)
 - [Check out the Gist](https://gist.github.com/ex-preman/e892f72404a0e4779999f8b439cec1b1)
+
+## V. Example:
+![image](https://github.com/SangVoIT/google-app-script_crud/assets/63042991/2e1ae5d5-437e-4a59-8b43-6540bcc3aabd)
+![image](https://github.com/SangVoIT/google-app-script_crud/assets/63042991/a69d5f3e-2e43-419b-9a8e-dae00c67389d)
+
